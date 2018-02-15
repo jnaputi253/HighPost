@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HighPost", "HighPost\HighPost.csproj", "{F6ABA093-2D96-4E32-BB31-5DA7ACEF7043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6ABA093-2D96-4E32-BB31-5DA7ACEF7043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6ABA093-2D96-4E32-BB31-5DA7ACEF7043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6ABA093-2D96-4E32-BB31-5DA7ACEF7043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6ABA093-2D96-4E32-BB31-5DA7ACEF7043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3A187F9-C2C6-4374-811D-DFB6604CBCBE}
+	EndGlobalSection
+EndGlobal
